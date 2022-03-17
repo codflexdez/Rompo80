@@ -6,4 +6,7 @@ l'interet design
 hicking
 
 
-information additionelle 
+information additionelle
+
+
+more information
