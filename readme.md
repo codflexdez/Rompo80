@@ -1,12 +1,15 @@
-roman potachenski
-romanworld@gmail.com
+Projet: Activité 6
 
-l'interet design
+Nom: roman potachenski
+e-mail: romanworld@gmail.com
 
-hicking
+Champs d’intérêt : Design, Hiking, Développement web, programmation.
+
+Perspective de carrière: Dévelopeur Web, UI/UX Designer
 
 
-information additionelle
+Information additionelle ajoutés 
 
 
-more information
+
+
